@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Output files
+*.tsv
+*.csv
+
+# macOS
+.DS_Store
