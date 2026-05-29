@@ -2,6 +2,10 @@
 
 A Python script that exports a list of all locally installed VS Code extensions as tab-separated values.
 
+## ⚠️ Disclaimer
+
+**This code was generated with AI assistance. Use at your own risk.** While efforts have been made to ensure functionality and correctness, thoroughly test in your environment before relying on it for production use.
+
 ## Output columns
 
 | Column | Description |
